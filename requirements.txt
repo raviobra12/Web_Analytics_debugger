@@ -1,0 +1,5 @@
+selenium==3.0.2
+xlwt==1.2.0
+harparser==0.2
+tqdm==3.8.0
+browsermob_proxy==0.8.0
